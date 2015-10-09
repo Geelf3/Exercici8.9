@@ -19,6 +19,9 @@ public class Metodes_Ex8_9 {
 	}
 		
 	public static class Methods {
-		
+		public boolean RemoveCars() {
+			
+			return false;
+		}
 	}
 }
